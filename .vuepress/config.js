@@ -42,6 +42,11 @@ module.exports = {
         "icon": "reco-api"
       },
       {
+        "text": "Other",
+        "link": "/categories/other/",
+        "icon": "reco-message"
+      },
+      {
         "text": "时间轴",
         "link": "/timeline/",
         "icon": "reco-date"
