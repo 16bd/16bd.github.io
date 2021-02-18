@@ -88,7 +88,7 @@ module.exports = {
       //  "text": "分类"
       //},
       "tag": {
-        "location": 5,
+        "location": 6,
         "text": "标签"
       }
     },
